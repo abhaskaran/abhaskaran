@@ -14,7 +14,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ashwini07/)!
 ## 🚀 Projects
 
 - **[🍛Meal Meter](https://github.com/abhaskaran/meal_meter):** AI Food Nutrition Analyzer.
-- **[Project Name 2](https://github.com/abhaskaran/project2):** Brief description of what it does.
+- **[💻SkillSync](https://github.com/abhaskaran/SkillSync):** Boost your resume's job fit using AI-powered analysis.
 - **[WebGPT Chrome Extension](https://chromewebstore.google.com/detail/webgpt-chatgpt-for-webpag/mechmfoiihmkiokjejfhemjdhganaafm):** (If this is your project)  
   An AI-powered browser extension for summarizing, rewriting, and chatting with web content[2].
 
