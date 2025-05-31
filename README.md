@@ -13,14 +13,14 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ashwini07/)!
 
 ## 🚀 Projects
 
-- **[Project Name 1](https://github.com/yourusername/project1):** Brief description of what it does.
-- **[Project Name 2](https://github.com/yourusername/project2):** Brief description of what it does.
+- **[🍛Meal Meter](https://github.com/abhaskaran/meal_meter):** AI Food Nutrition Analyzer.
+- **[Project Name 2](https://github.com/abhaskaran/project2):** Brief description of what it does.
 - **[WebGPT Chrome Extension](https://chromewebstore.google.com/detail/webgpt-chatgpt-for-webpag/mechmfoiihmkiokjejfhemjdhganaafm):** (If this is your project)  
   An AI-powered browser extension for summarizing, rewriting, and chatting with web content[2].
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaskaran&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 
@@ -40,5 +40,5 @@ I love building tools that make life easier for developers and users alike!
 
 ---
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abhaskaran.abhaskaran)
 
