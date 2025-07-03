@@ -32,7 +32,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ashwini07/)!
 ## 📫 How to reach me
 
 - **LinkedIn:** [ashwini07](https://www.linkedin.com/in/ashwini07/)
-- **Email:** your.email@example.com (replace with your actual email)
+- **Email:** 7.ashwini@gmail.com
 - **Twitter:** @yourhandle (optional)
 
 ## 🔥 Fun Fact
