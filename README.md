@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ashwini
 
-I’m passionate about data, fin-tech applications and cutting-edge AI-ML based technology solutions, with an eagerness to learn and contribute to innovative projects.  
+I’m passionate about data, fin-tech applications and cutting-edge AI-ML based technology solutions, with an eagerness to learn and contribute to innovative projects. I specialize in quantitative analysis geared to derive actionable insights from complex datasets 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashwini07/)!
 
 ## 🔧 Skills & Tools
