@@ -1,15 +1,18 @@
 # 👋 Hello, I'm Ashwini
 
-I’m a passionate technology enthusiast and software developer, always eager to learn and contribute to innovative projects.  
+I’m passionate about data, fin-tech applications and cutting-edge AI-ML based technology solutions, with an eagerness to learn and contribute to innovative projects.  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashwini07/)!
 
 ## 🔧 Skills & Tools
 
-- **Programming Languages:** Python, JavaScript, Java (or list your own)
-- **Frameworks & Libraries:** React, Node.js, Django (or your preferred stack)
-- **DevOps & Cloud:** Docker, Kubernetes, AWS/Azure (if relevant)
-- **Data & AI:** SQL, Power BI, Machine Learning (if relevant)
-- **Other:** Git, VS Code, Agile methodologies
+- **Programming Languages:** Python, Java, C#
+- **Frameworks & Libraries:** React for Agentic AI, numpy, pandas, matplotlib, scikitLearn
+- **DevOps & Cloud:** Docker, Jenkins, Git, CI/CD  Integration
+- **Data & AI:** SQL, Power BI, LLM, Agentic AI, RPA
+- **Web Technologies:** HTML, CSS, JavaScript, JSON, jQuery, Bootstrap
+- **Databases:** MS SQL, MySQL, PostgreSQL
+- **Cloud & Infrastructure:** Azure, CI/CD Integration
+- **Data Analytics & Visualization:** EDA, Power BI, Tableau, Excel, Snowflake
 
 ## 🚀 Projects
 
